@@ -1,4 +1,4 @@
 export const BASE_URL =
   process.env.NODE_ENV === "production"
-    ? "https://bluwarresort.in"
+    ? "https://khana-khajana-sigma.vercel.app/"
     : "http://localhost:3000";
