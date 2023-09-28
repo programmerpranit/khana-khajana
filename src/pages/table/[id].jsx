@@ -121,7 +121,13 @@ const TableDetails = () => {
               Main Course
             </p>
             <p className="border px-3 cursor-pointer rounded-full border-blue-500 bg-blue-200 ">
-              Appetizer
+              Roti
+            </p>
+            <p className="border px-3 cursor-pointer rounded-full border-blue-500 bg-blue-200 ">
+              Biryani
+            </p>
+            <p className="border px-3 cursor-pointer rounded-full border-blue-500 bg-blue-200 ">
+              Dessert
             </p>
           </div>
 

@@ -69,7 +69,13 @@ const Menu = () => {
               Main Course
             </p>
             <p className="border px-3 cursor-pointer rounded-full border-blue-500 bg-blue-200 ">
-              Appetizer
+              Roti
+            </p>
+            <p className="border px-3 cursor-pointer rounded-full border-blue-500 bg-blue-200 ">
+              Biryani
+            </p>
+            <p className="border px-3 cursor-pointer rounded-full border-blue-500 bg-blue-200 ">
+              Dessert
             </p>
           </div>
 
@@ -109,8 +115,9 @@ const Menu = () => {
             >
               <option value="appetizer">Appetizer</option>
               <option value="main-course">Main Course</option>
-              <option value="appetizer">Appetizer</option>
-              <option value="appetizer">Appetizer</option>
+              <option value="roti">Indian Breads</option>
+              <option value="biryani">Biryani</option>
+              <option value="desserts">Desserts</option>
             </select>
             <button type="submit" className=" py-2 my-1 w-full bg-blue-500">
               Save Dish

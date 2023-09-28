@@ -4,7 +4,7 @@ import React from "react";
 const Navbar = () => {
   return (
     <nav className=" flex p-10 justify-between px-20 ">
-      <div className="text-2xl font-semibold">Hotel Name</div>
+      <div className="text-2xl font-semibold">The Lalit</div>
       <div className="flex gap-10 text-lg ">
         <Link href={"/menu"}>
           <p className="font-semibold text-black">Menu</p>
